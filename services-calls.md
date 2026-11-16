@@ -1,4 +1,4 @@
-### Service Calls: REST, RPC and GraphQL
+### 🌟🌟🌟 Service Calls: REST, RPC and GraphQL 🌟🌟🌟
 
 ### 1. REST (Representational State Transfer)
 **Real-Life Example: An E-commerce Website (like Amazon) fetching a Product Page.**
