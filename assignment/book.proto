@@ -1,0 +1,13 @@
+
+syntax = "proto3";   // using version 3 of Protobuf
+
+// Protobuf use "message" instead of "struct" to define data structures
+message Book {
+  string title = 1;
+  string author = 2;
+  int32 page_count = 3;
+}
+
+service Library {
+  rpc checkoutBook(Book) returns (Book) {}
+}
