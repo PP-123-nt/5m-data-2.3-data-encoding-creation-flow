@@ -21,6 +21,7 @@ An **API (Application Programming Interface)** is a set of rules that allows dif
 *   `POST` = create data
 *   `PUT` = update data
 *   `DELETE` = remove data
+
 **Other Fundamentals:**
 *   **HTTP status codes** communicate request outcomes.
 *   **Headers and cookies** provide context and state information.
