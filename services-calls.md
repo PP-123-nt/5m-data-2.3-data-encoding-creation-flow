@@ -7,6 +7,9 @@
 
 *   **Why it fits the image:** It is entirely **resource-based** (the resource is the "product"). It uses standard HTTP methods. It is **stateless** (the server doesn't need to remember your previous requests to fulfill this one). The server responds with a standard **JSON** file containing the shoe's name, price, and image URLs. It's perfectly **ideal for web-based applications** where you just need to look up or modify specific resources.
 
+<img width="404" height="437" alt="image" src="https://github.com/user-attachments/assets/f1fe80dd-7f04-4c8c-b41c-677bfbac47dd" />
+
+
 ### 2. RPC (Remote Procedure Call)
 **Real-Life Example: A Ride-Sharing App's Internal Microservices (like Uber).**
 
@@ -24,3 +27,16 @@
     *   With GraphQL, the mobile app sends a single, precise query to a **single endpoint**: *"Give me `name`, `avatar`, `followerCount`, and the `url` of the `latest_3_posts`."*
     
 *   **Why it fits the image:** It allows **clients to request precise data**, completely eliminating over/under-fetching. It uses a **single endpoint** and is perfect for **client-driven data retrieval** where mobile apps on slower networks need to minimize the amount of data they download.
+
+
+
+<img width="1040" height="571" alt="image" src="https://github.com/user-attachments/assets/2ee79005-a43a-4741-a3ae-822a09f12dd2" />
+
+
+
+<img width="644" height="386" alt="image" src="https://github.com/user-attachments/assets/b839b148-5a31-45d6-8ccd-7a7684009ce5" />
+
+
+<img width="1108" height="655" alt="image" src="https://github.com/user-attachments/assets/6a82c198-da8c-43f4-b3ea-10e84d02f377" />
+
+
